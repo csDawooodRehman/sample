@@ -1,0 +1,71 @@
+header>img,
+header>h1,
+h1>span{
+
+font-family: sans-serif;
+    display: inline;
+color: aliceblue;
+    vertical-align: middle;
+}
+header{
+ position: relative;
+ 
+    background-color: rgb(33, 26, 125);
+}
+header>h1{
+margin-left: 50px;
+
+}
+nav{
+background-color: rgb(84, 52, 52);
+
+
+}
+nav h3{
+    color: aliceblue;
+    display: inline;
+    margin-left: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav h3:hover{
+background-color: brown;
+
+}
+
+section img {
+    height: 60px;
+    width: 60px;
+    float: inline-start;
+
+}
+
+
+section{
+    padding:5px;
+    display: block;
+    display: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 2px solid;
+display: inline-block;
+height: 200px;
+width: 200px;
+
+}
+section>p
+{
+    text-wrap: wrap;
+
+
+
+}
+section button{
+background-color: brown;
+color: aliceblue;
+}
+.one{
+    margin-top: 5px;
+   display: relative;
+    background-size: cover; 
+
+}
